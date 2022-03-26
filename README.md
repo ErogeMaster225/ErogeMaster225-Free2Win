@@ -11,18 +11,18 @@
 > GPU: NVIDIA GeForce GTX 1650 Mobile
 
 ## :pushpin:  Table of contents
-
-1. [Getting Started](#0-getting-started)
-2. [DeveloperTools](#1-developer-tools)
-3. [Productivity](#2-productivity)
-4. [Audio & Music](#3-audio--music)
-5. [Video & Movies](#4-video--movies)
-6. [Photos & Graphics](#5-photos--graphics)
-7. [OS & Utilities](#6-os--utilities)
-8. [System & Hardware](#7-system--hardware)
-9. [Gaming Software](#8-gaming-software)
-10. [Web Browsers](#9-web-browsers)
-11. [File Sharing & Management](#10-file-sharing--management)
+0. [Getting Started](#0-getting-started)
+1. [DeveloperTools](#1-developer-tools)
+2. [Productivity](#2-productivity)
+3. [Audio & Music](#3-audio--music)
+4. [Video & Movies](#4-video--movies)
+5. [Photos & Graphics](#5-photos--graphics)
+6. [OS & Utilities](#6-os--utilities)
+7. [System & Hardware](#7-system--hardware)
+8. [Gaming Software](#8-gaming-software)
+9. [Web Browsers](#9-web-browsers)
+10. [File Sharing & Management](#10-file-sharing--management)
+11. [Security & Privacy](#11-security--privacy)
 12. [Miscellaneous](#11-miscellaneous)
 
 ## 0. Getting Started
@@ -36,23 +36,42 @@ Of course, installing and updating hundred of programs can be a pain in the ass.
 Personally, I prefer [Scoop](https://scoop.sh/) because it won't pollute my PATH with 2000 entries. If these don't fit you here's also a new kid on the block - [Windows Package Manager](https://github.com/microsoft/winget-cli) (aka Winget). It has a decent software repo but still left a lot to be desired. \
 TL;DR: Use package manager. Find one that suits you most or just use a mix of them.
 ## 1. Developer Tools
-
+- ### Text Editor: Visual Studio Code
+- ### API Development: Hoppscotch
+- ### Database Manager: HeidiSQL
+- ### Automation Tool: AutoHotkey
+- ### Terminal Emulator: ConEmu
 ## 2. Productivity
-
+- ### Office Suite: Libre Office
 ## 3. Audio & Music
-
+- ### Music Player: AIMP
+- ### Audio Editor: Audacity
+- ### Tag Editor: Mp3tag
 ## 4. Video & Movies
-
+- ### Media Player: MPV
+- ### Video Editor: Olive Video Editor
+- ### Video Converter: XMedia Recode
+- ### Screen Recorder
 ## 5. Photos & Graphics
-
+- ### Image Viewer: Picasa
+- ### Image Editor: Paint.NET
 ## 6. OS & Utilities
-
+- ### Volume Control: EarTrumpet
 ## 7. System & Hardware
-
+- ### Adaptive screen brightness: Gammy
 ## 8. Gaming Software
-
+- ### Games Library: Playnite
 ## 9. Web Browsers
-
+- ### Browser: Mozilla Firefox
 ## 10. File Sharing & Management
-
-## 11. Miscellaneous
+- ### File Manager: Double Commander
+- ### File Search Utilities: Everything
+- ### File Archiver: 7-zip
+## 11. Security & Privacy
+- ### Password Manager: Bitwarden
+- ### Anonymous Browser: Tor Browser
+- ### Encrypted Messaging: Telegram
+- ### VPN Client: SoftEther VPN
+- ### Network Monitor: GlassWire
+## 12. Miscellaneous
+- ### Codec Pack: K-Lite Codec Pack
